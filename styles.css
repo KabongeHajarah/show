@@ -1,0 +1,192 @@
+html{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 18px;
+  
+}
+*{
+margin: 0px;
+padding: 0px;
+
+
+}
+.icon{
+   width: 2.8%;
+    align-items: right;
+    justify-content: space-between;
+
+}
+.logo{
+  font-weight: bolder;
+  font-size:xx-large;
+}
+.user{
+width: 5%;
+align-items: center;
+justify-content: space-around;
+
+}
+header{
+    display: flex;
+    padding: 30px 4%;
+    align-items: center;
+    justify-content: space-between;
+    color: #222224;
+    position: fixed;
+    font-size: 16px;
+    background-color: white;
+    
+    }
+  
+   
+    
+    .navs,li{
+    list-style: none;
+    display: inline-block;
+    padding: 0px  20px;
+    color: #222224;
+    font-weight: bold;
+    
+    }
+    .logo{
+      cursor: pointer; 
+      font-size: larger;
+    }
+    .shopping-icon{
+width: 10%;
+
+  }
+h1{
+  justify-content: center;
+  align-items: center;
+  padding-top: 80px;
+}
+.shop-button{
+  border: none;
+  width: 200px;
+  height: 50px;
+  border-radius: 20px;
+  background-color: rgb(241, 82, 135);
+  color: white;
+
+}
+b{
+  font-size:15px;
+}
+.main-container{
+  display: flex;
+  flex-direction: row;
+  padding-top: 60px;
+}
+image{
+  height: 10px;
+  width: 10%;
+  min-height: 100%;
+  max-width: 100%;
+}
+.cloths{
+display: flex;
+flex-direction: row;
+
+}
+.pic{
+width: 95%;
+justify-content: space-between;
+margin-left: 8px;
+
+}
+.bold{
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  vertical-align: top;
+  
+  }
+   h2{
+text-align: center;
+
+padding-top: 40px;
+   
+   } 
+.discount{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+  .save{
+    color: #222224;
+    text-align: center;
+  }
+   .edit{
+    text-decoration: line-through;
+    font-weight: bolder;
+   }
+.red{
+  color: red;
+  font-weight: 600;
+}
+
+
+
+
+
+
+  .footermain{
+    background-color: #222224;
+    color:  #f8f8f8;;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+    
+    
+    
+    }
+    .only{
+     font-weight: lighter ;
+     color:  #f8f8f8;
+     text-align: center;
+    }
+    .arrangeThis{
+    padding: 2%;
+    color:  #f8f8f8;
+    background-color: #222224;
+    
+    }
+  
+    .lists{
+      color: #f8f8f8;
+      font-weight: lighter;
+    }
+    h3{
+      color: #f8f8f8;
+      text-align: center;
+    }
+    .aligntext{
+      text-align: center;
+      justify-items: center;
+      justify-content: center;
+    }
+    .left{
+      color: #f8f8f8;
+      font-weight: lighter;
+      text-align: left;
+    }
+    .center{
+      color: #f8f8f8;
+      font-weight: lighter;
+      text-align: center;
+    }
+    .right{
+      
+        color: #f8f8f8;
+        font-weight: lighter;
+        text-align: right;
+      
+    }
+    .trial{
+    display: flex;
+    flex-direction: row;
+    padding: 0px  20px;
+    justify-content: space-between;
+    font-size: smaller;
+    }
+    
